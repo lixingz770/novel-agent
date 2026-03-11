@@ -1,0 +1,19 @@
+{
+  "project_id": "测试项目-de89451d",
+  "draft": "workspace/projects/测试项目-de89451d/drafts/chapter_001_eafc6f64b3.md",
+  "created_at": "2026-03-11T02:37:02.416218+00:00",
+  "report": {
+    "severity_issues": [],
+    "issues": [
+      "当前为降级模板草稿，尚未生成真实正文。",
+      "场景Beat仍是占位符：需要具体化冲突与动作链。"
+    ],
+    "suggestions": [
+      "补齐冲突推进链：目标→阻碍→代价→小胜/小败→更大问题",
+      "对白尽量承担信息与冲突，不要旁白说教"
+    ],
+    "hook_check": "需要确保结尾是“必须点下一章”的问题/危机/反转。",
+    "consistency_check": "（降级检查）未做世界观/人设深度一致性校验。",
+    "revised_excerpt": ""
+  }
+}

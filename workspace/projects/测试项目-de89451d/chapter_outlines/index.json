@@ -1,0 +1,21 @@
+{
+  "project_id": "测试项目-de89451d",
+  "outline_version": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "file": "chapter_001.md",
+      "title": "钩子"
+    },
+    {
+      "chapter": 2,
+      "file": "chapter_002.md",
+      "title": "任务"
+    },
+    {
+      "chapter": 3,
+      "file": "chapter_003.md",
+      "title": "升级"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "测试项目A",
+  "genre": "仙侠",
+  "audience": "网文读者",
+  "length_words": null,
+  "tone": null,
+  "pov": null,
+  "taboo": [],
+  "references": [],
+  "must_have": [],
+  "nice_to_have": [],
+  "delivery": "markdown",
+  "extra": {}
+}

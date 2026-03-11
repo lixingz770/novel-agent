@@ -1,0 +1,15 @@
+ workspace: ./workspace
+ llm:
+   provider: openai_compatible
+   base_url: ${NOVELAGENT_BASE_URL}
+   api_key: ${NOVELAGENT_API_KEY}
+   model: ${NOVELAGENT_MODEL}
+   timeout_s: 60
+ retrieval:
+   vectorstore: chroma
+   collection: novelagent_library
+   top_k: 8
+   chunk:
+     max_chars: 1800
+     overlap_chars: 200
+ 

@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/novelagent/__init__.py
+src/novelagent/cli.py
+src/novelagent/config.py
+src/novelagent/paths.py
+src/novelagent.egg-info/PKG-INFO
+src/novelagent.egg-info/SOURCES.txt
+src/novelagent.egg-info/dependency_links.txt
+src/novelagent.egg-info/entry_points.txt
+src/novelagent.egg-info/requires.txt
+src/novelagent.egg-info/top_level.txt

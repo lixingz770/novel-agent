@@ -1,0 +1,2 @@
+[console_scripts]
+novelagent = novelagent.cli:app

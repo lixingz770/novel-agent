@@ -1,0 +1,18 @@
+{
+  "name": "测试项目",
+  "genre": "都市爽文",
+  "audience": "男频",
+  "length_words": null,
+  "tone": "快节奏",
+  "pov": null,
+  "taboo": [
+    "无虐主"
+  ],
+  "references": [],
+  "must_have": [
+    "强开篇钩子"
+  ],
+  "nice_to_have": [],
+  "delivery": "markdown",
+  "extra": {}
+}
